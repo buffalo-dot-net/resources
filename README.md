@@ -1,2 +1,2 @@
 # resources
-Content, media and images
+Content, media, and images
